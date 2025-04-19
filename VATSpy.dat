@@ -250,7 +250,7 @@ Slovakia|LZ|Radar
 Slovenia|LJ|Control
 Solomon Islands|AG|
 Somalia|HC|Radio
-South Africa|FA|Control
+South Africa|FA|Area
 South Korea|RK|Control
 Spain|GC|Control
 Spain|GE|Control
@@ -18099,6 +18099,7 @@ FAJA-N|Johannesburg Area (North)|FAJA_N|FAJA-N
 FAJA-S|Johannesburg Area (South)|FAJA_S|FAJA-S
 FAJA-NW|Johannesburg Area (Sector 2)|FAJA_NW|FAJA-NW
 FAJA-NE|Johannesburg Area (Sector 1)|FAJA_NE|FAJA-NE
+FAJA_NE|Lowveld Information|FAJA_MIL|FAJA-NE
 FAJA-SW|Johannesburg Area (Sector 4)|FAJA_SW|FAJA-SW
 FAJA-SE|Johannesburg Area (Sector 3)|FAJA_SE|FAJA-SE
 FAJA-W|Johannesburg Area (West)|FAJA_W|FAJA-W
